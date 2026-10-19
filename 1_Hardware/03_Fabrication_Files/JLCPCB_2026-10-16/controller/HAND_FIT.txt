@@ -1,0 +1,13 @@
+Hand-fit parts for TWO eTactileKit compact controller boards
+
+J4: 2 x TE Connectivity 2307727-2.
+2-position, 2 mm pitch, horizontal SMT connector. Fit to the existing J4 footprint.
+TE: https://www.te.com/en/product-2307727-2.html
+DigiKey: https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2307727-2/11502892
+
+ESP32-S3: 2 x regular Seeed Studio XIAO ESP32-S3, SKU 113991114.
+Seeed: https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
+DigiKey: https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991114/19285530
+
+Both parts are intentionally omitted from the JLC BOM and placement CSV.
+Links identify the exact parts. Stock and price have not been reserved.

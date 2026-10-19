@@ -1,0 +1,17 @@
+G04 Approved derivative: TOP FR4 stiffener 0.2 mm only*
+G04 Original author copper, mask, paste, silk, profile and drill data are unchanged*
+G04 Same original Gerber XY coordinates; no translation or mirroring*
+%FSLAX46Y46*%
+%MOMM*%
+%LPD*%
+%ADD10C,0.001000*%
+D10*
+G01*
+G36*
+X132412776Y-70000000D02*
+X156412776Y-70000000D01*
+X156412776Y-55300000D01*
+X132412776Y-55300000D01*
+X132412776Y-70000000D01*
+G37*
+M02*

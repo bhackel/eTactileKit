@@ -1,5 +1,11 @@
 # eTactileKit: A Toolkit for Design Exploration and Rapid Prototyping of Electro-Tactile Interfaces
 
+## JLCPCB hardware revision
+
+This fork preserves the October 2026 controller and switching-board sourcing changes and the 16-pad fingertip flex manufacturing derivative. Start with the [revision notes](1_Hardware/JLCPCB_REVISION.md) for the Altium project links and change list, or the [dated manufacturing snapshot](1_Hardware/03_Fabrication_Files/JLCPCB_2026-10-16/README.md) for the reviewed Gerbers, purchasing BOMs, and placement files.
+
+The snapshot retains an unresolved via-in-pad manufacturing concern on both rigid boards. The native BOM metadata and placement angles differ from the JLC upload files; the revision notes explain those differences.
+
 <p align="center">
   <img src="8_Documentation/1_teaser_1.png" alt="Image Description" width="1000" />
 </p>

@@ -1,0 +1,10 @@
+# Preserve native Altium files and reviewed manufacturing payloads byte-for-byte.
+*.SchDoc -text
+*.PcbDoc -text
+*.SchLib -text
+*.PcbLib -text
+*.BomDoc text eol=lf
+*.PrjPcb text eol=lf
+*.OutJob text eol=lf
+*.Cam -text
+/1_Hardware/03_Fabrication_Files/JLCPCB_2026-10-16/** -text

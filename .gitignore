@@ -16,3 +16,12 @@
 5_APIs/1_Python_API/api/__pycache__/
 6_APIs/1_Python_API/__pycache__/
 6_APIs/1_Python_API/api/__pycache__/
+
+# Altium session caches and local editing history
+**/History/
+**/__Previews/
+**/Project Logs for */
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.lck
